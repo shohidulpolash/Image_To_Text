@@ -9,7 +9,7 @@ from PIL import Image
 
 root = Tk()
 root.geometry('580x360')
-root.title("Shohidul Polash Dictionary")
+root.title("Image To Text")
 root.configure(background="#cca8f0")
 
 
